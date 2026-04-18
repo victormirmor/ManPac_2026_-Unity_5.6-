@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: a54c0a5dc8527804abb08c5203449b3f
+timeCreated: 1768743041
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_mesh
+    100002: CATRigHub001
+    100004: CATRigHub001Bone001
+    100006: CATRigHub002
+    100008: CATRigHub003
+    100010: CATRigHub003Bone001
+    100012: CATRigLArm1
+    100014: CATRigLArm2
+    100016: CATRigLArmCollarbone
+    100018: CATRigLArmPalm
+    100020: CATRigLLeg1
+    100022: CATRigLLeg2
+    100024: CATRigLLegAnkle
+    100026: CATRigLLegPlatform
+    100028: CATRigRArm1
+    100030: CATRigRArm2
+    100032: CATRigRArmCollarbone
+    100034: CATRigRArmPalm
+    100036: CATRigRLeg1
+    100038: CATRigRLeg2
+    100040: CATRigRLegAnkle
+    100042: CATRigRLegPlatform
+    100044: CATRigSpine
+    100046: CATRigSpine1
+    100048: CATRigSpine2
+    100050: Character
+    100052: Character001
+    100054: Clutches_mesh
+    100056: //RootNode
+    100058: Eyes_mesh
+    100060: Horns_mesh
+    100062: Lower_teeth_mesh
+    100064: Thorns_mesh
+    100066: Upper_teeth_mesh
+    400000: Body_mesh
+    400002: CATRigHub001
+    400004: CATRigHub001Bone001
+    400006: CATRigHub002
+    400008: CATRigHub003
+    400010: CATRigHub003Bone001
+    400012: CATRigLArm1
+    400014: CATRigLArm2
+    400016: CATRigLArmCollarbone
+    400018: CATRigLArmPalm
+    400020: CATRigLLeg1
+    400022: CATRigLLeg2
+    400024: CATRigLLegAnkle
+    400026: CATRigLLegPlatform
+    400028: CATRigRArm1
+    400030: CATRigRArm2
+    400032: CATRigRArmCollarbone
+    400034: CATRigRArmPalm
+    400036: CATRigRLeg1
+    400038: CATRigRLeg2
+    400040: CATRigRLegAnkle
+    400042: CATRigRLegPlatform
+    400044: CATRigSpine
+    400046: CATRigSpine1
+    400048: CATRigSpine2
+    400050: Character
+    400052: Character001
+    400054: Clutches_mesh
+    400056: //RootNode
+    400058: Eyes_mesh
+    400060: Horns_mesh
+    400062: Lower_teeth_mesh
+    400064: Thorns_mesh
+    400066: Upper_teeth_mesh
+    2300000: Eyes_mesh
+    2300002: Lower_teeth_mesh
+    2300004: Upper_teeth_mesh
+    3300000: Eyes_mesh
+    3300002: Lower_teeth_mesh
+    3300004: Upper_teeth_mesh
+    4300000: Lower_teeth_mesh
+    4300002: Eyes_mesh
+    4300004: Upper_teeth_mesh
+    4300006: Body_mesh
+    4300008: Thorns_mesh
+    4300010: Horns_mesh
+    4300012: Clutches_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body_mesh
+    13700002: Clutches_mesh
+    13700004: Horns_mesh
+    13700006: Thorns_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: CATRigHub001
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigLLeg1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigRLeg1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigLLeg2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigRLeg2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigLLegAnkle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigRLegAnkle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigSpine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigSpine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigSpine
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigHub003
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigLArmCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigRArmCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigLArm1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigRArm1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigLArm2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigRArm2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigLArmPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigRArmPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Eyes_mesh
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Upper_teeth_mesh
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CATRigHub002
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Creature_Monsters_X_Mesh(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CATRigLLegPlatform
+      parentName: Creature_Monsters_X_Mesh(Clone)
+      position: {x: -0.1524, y: -0.000000011484723, z: 0.07116118}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CATRigRLegPlatform
+      parentName: Creature_Monsters_X_Mesh(Clone)
+      position: {x: 0.1524, y: -0.000000011484729, z: 0.07116121}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character
+      parentName: Creature_Monsters_X_Mesh(Clone)
+      position: {x: -0, y: 0.5535896, z: 0.048662715}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_mesh
+      parentName: Character
+      position: {x: -0.0000000019566673, y: -0.00087658165, z: -0.0043560327}
+      rotation: {x: 0.02835011, y: 0, z: -0, w: 0.9995981}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Clutches_mesh
+      parentName: Character
+      position: {x: 0.0018812426, y: -0.110315524, z: -0.53673977}
+      rotation: {x: 0.028315024, y: -0.0014097187, z: 0.04970559, w: 0.99836147}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1}
+    - name: Horns_mesh
+      parentName: Character
+      position: {x: 0.004539851, y: -0.21149823, z: 0.49678296}
+      rotation: {x: -0.041486036, y: 0.95279163, z: -0.3003668, w: 0.015710186}
+      scale: {x: 1.3075476, y: 1.0870541, z: 1.2221291}
+    - name: Thorns_mesh
+      parentName: Character
+      position: {x: 0.049825348, y: -0.009092601, z: -0.13948886}
+      rotation: {x: 0.24367322, y: 0.23909704, z: 0.93393385, w: -0.105941236}
+      scale: {x: 1.0000002, y: 1, z: 0.9999998}
+    - name: Character001
+      parentName: Creature_Monsters_X_Mesh(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999994, w: 0.49999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CATRigHub001
+      parentName: Creature_Monsters_X_Mesh(Clone)
+      position: {x: 4.3314683e-14, y: 0.4473305, z: -0.055713847}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CATRigHub001Bone001
+      parentName: CATRigHub001
+      position: {x: -0.023562515, y: -0.035107546, z: 0}
+      rotation: {x: 8.027391e-21, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CATRigSpine1
+      parentName: CATRigHub001Bone001
+      position: {x: -0.024478544, y: 0.03510756, z: 3.609557e-16}
+      rotation: {x: -1.4494995e-14, y: 5.6731785e-15, z: 0.06709183, w: 0.9977468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CATRigSpine2
+      parentName: CATRigSpine1
+      position: {x: -0.10866294, y: 0, z: 3.609557e-16}
+      rotation: {x: 1.0108452e-14, y: -2.5481316e-14, z: 2.5757666e-28, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CATRigHub002
+      parentName: CATRigSpine2
+      position: {x: -0.10866308, y: 0.000000006055832, z: 3.609557e-16}
+      rotation: {x: 4.3444227e-15, y: 1.876635e-14, z: 0.019733548, w: 0.99980533}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CATRigSpine
+      parentName: CATRigHub002
+      position: {x: -0.08154938, y: 0.063834354, z: -0.000000009638711}
+      rotation: {x: -9.658031e-15, y: -0.000000059604613, z: -0.24629605, w: 0.9691947}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: CATRigHub003
+      parentName: CATRigSpine
+      position: {x: -0.15581888, y: 0, z: -1.15505826e-14}
+      rotation: {x: -0.000000013334047, y: 0.00000004090523, z: 0.05432462, w: 0.99852335}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Eyes_mesh
+      parentName: CATRigHub003
+      position: {x: -0.092168406, y: 0.0443892, z: -0.000000096893295}
+      rotation: {x: 0.69585764, y: 0.12562719, z: -0.69585764, w: 0.12562719}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Upper_teeth_mesh
+      parentName: CATRigHub003
+      position: {x: -0.06215948, y: 0.17335206, z: -0.0064552883}
+      rotation: {x: 0.735706, y: 0.054448366, z: 0.6748329, w: -0.019304296}
+      scale: {x: 0.55081457, y: 0.49244332, z: 0.39883217}
+    - name: CATRigHub003Bone001
+      parentName: CATRigHub003
+      position: {x: 0.020545645, y: -0.003393882, z: 0.0000000039561554}
+      rotation: {x: 0.000000029933226, y: -0.00000010910416, z: -0.6649519, w: 0.74688613}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Lower_teeth_mesh
+      parentName: CATRigHub003Bone001
+      position: {x: -0.15630794, y: -0.057565283, z: -0.00000009689331}
+      rotation: {x: 0.55654114, y: -0.4361903, z: -0.55654114, w: -0.4361903}
+      scale: {x: -1, y: -1.0000001, z: -1.0000001}
+    - name: CATRigLArmCollarbone
+      parentName: CATRigHub002
+      position: {x: -0.054765116, y: 0.14048989, z: 0.013199758}
+      rotation: {x: 0.09205904, y: 0.69592845, z: 0.1306679, w: 0.7000963}
+      scale: {x: 0.99999976, y: 1.0000005, z: 1}
+    - name: CATRigLArm1
+      parentName: CATRigLArmCollarbone
+      position: {x: -0.24037544, y: -0.000000018167496, z: 0}
+      rotation: {x: 0.0738575, y: 0.004095792, z: -0.19283487, w: 0.9784391}
+      scale: {x: 0.99999934, y: 1, z: 1.0000006}
+    - name: CATRigLArm2
+      parentName: CATRigLArm1
+      position: {x: -0.18784481, y: -0.000000012111664, z: 0}
+      rotation: {x: 0.0041520437, y: -0.009481534, z: 0.013845576, w: 0.9998506}
+      scale: {x: 0.9999973, y: 1.0000025, z: 1.000001}
+    - name: CATRigLArmPalm
+      parentName: CATRigLArm2
+      position: {x: -0.36227542, y: 0.000000048446655, z: 0.000000048446655}
+      rotation: {x: 0.0042730286, y: 0.00048625094, z: -0.049100604, w: 0.9987846}
+      scale: {x: 0.99999225, y: 1.0000058, z: 1.0000018}
+    - name: CATRigRArmCollarbone
+      parentName: CATRigHub002
+      position: {x: -0.054765116, y: 0.14048989, z: -0.013199756}
+      rotation: {x: -0.09205918, y: -0.6959284, z: 0.13066785, w: 0.7000962}
+      scale: {x: 1.0000002, y: 0.99999976, z: 1}
+    - name: CATRigRArm1
+      parentName: CATRigRArmCollarbone
+      position: {x: -0.24037546, y: -0.000000018167496, z: 0.000000048446655}
+      rotation: {x: -0.07170125, y: -0.0021371245, z: -0.19339186, w: 0.97849584}
+      scale: {x: 1.0000007, y: 1.0000001, z: 0.99999934}
+    - name: CATRigRArm2
+      parentName: CATRigRArm1
+      position: {x: -0.18784478, y: 0, z: 0}
+      rotation: {x: -0.004965252, y: 0.0073136943, z: 0.014275786, w: 0.99985904}
+      scale: {x: 1.0000025, y: 0.9999974, z: 0.9999992}
+    - name: CATRigRArmPalm
+      parentName: CATRigRArm2
+      position: {x: -0.3622754, y: -0.000000024223327, z: -0.000000048446655}
+      rotation: {x: -0.004273098, y: -0.0004862267, z: -0.049101185, w: 0.99878454}
+      scale: {x: 1.0000072, y: 0.9999938, z: 0.9999978}
+    - name: CATRigLLeg1
+      parentName: CATRigHub001
+      position: {x: -0.014946229, y: -0.009925363, z: 0.06911709}
+      rotation: {x: -0.111859836, y: 0.9916516, z: 0.0073333387, w: 0.06372432}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+    - name: CATRigLLeg2
+      parentName: CATRigLLeg1
+      position: {x: -0.23062997, y: 0.00000032701493, z: 0.00000038757324}
+      rotation: {x: 0.011603287, y: 0.039893802, z: 0.34285852, w: 0.93846786}
+      scale: {x: 1.0000024, y: 0.9999975, z: 0.99999976}
+    - name: CATRigLLegAnkle
+      parentName: CATRigLLeg2
+      position: {x: -0.25057855, y: 0, z: -0.000000012111664}
+      rotation: {x: -0.0077683777, y: 0.020434583, z: -0.85276514, w: 0.5218369}
+      scale: {x: 1.0000043, y: 0.99999565, z: 1.0000001}
+    - name: CATRigRLeg1
+      parentName: CATRigHub001
+      position: {x: -0.014946229, y: -0.009925369, z: -0.06911708}
+      rotation: {x: -0.111860126, y: 0.9916515, z: -0.007335067, w: -0.063725606}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999998}
+    - name: CATRigRLeg2
+      parentName: CATRigRLeg1
+      position: {x: -0.23062998, y: 0.00000029067994, z: -0.00000042390823}
+      rotation: {x: -0.011672962, y: -0.039794307, z: 0.34286124, w: 0.9384702}
+      scale: {x: 0.99999917, y: 1.0000011, z: 1.0000004}
+    - name: CATRigRLegAnkle
+      parentName: CATRigRLeg2
+      position: {x: -0.25057858, y: -0.000000003027916, z: -0.000000012111664}
+      rotation: {x: 0.0075895498, y: -0.020651031, z: -0.8527584, w: 0.52184206}
+      scale: {x: 0.99999857, y: 1.0000019, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
