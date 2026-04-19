@@ -65,6 +65,9 @@ TextureImporter:
   - first:
       213: 21300040
     second: Atlas2_7
+  - first:
+      213: 892476134998149120
+    second: Atlas2_21
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -576,13 +579,13 @@ TextureImporter:
       name: Atlas2_5
       rect:
         serializedVersion: 2
-        x: 1030
-        y: 711
-        width: 133
-        height: 116
+        x: 1138
+        y: 704
+        width: 141
+        height: 140
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 27, y: 31, z: 25, w: 25}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -602,7 +605,7 @@ TextureImporter:
         width: 228
         height: 235
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -614,10 +617,31 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Atlas2_21
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 524
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 27, y: 24, z: 25, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0080415f056b26c00800000000000000
+      internalID: 892476134998149120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 45d8a11646fcb9c43871f278254126a1
     internalID: 0
     vertices: []
     indices: 

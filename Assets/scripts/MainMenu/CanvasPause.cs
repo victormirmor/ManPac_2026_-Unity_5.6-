@@ -26,7 +26,7 @@ public class CanvasPause : MonoBehaviour {
 	public void Pause(){		
 		canvasPausa.enabled = !canvasPausa.enabled;
 		Time.timeScale = Time.timeScale == 0 ? 1 : 0;
-		Cursor.visible = !Cursor.visible;
+		//Cursor.visible = !Cursor.visible;
 	}
 
 	
